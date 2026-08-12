@@ -16,7 +16,7 @@ public class ProductoService implements IProductoService {
     }
 
     @Override
-    public List<Producto> traerProducto() {
+    public List<Producto> traerProductos() {
         return prodRepo.findAll();
     }
 

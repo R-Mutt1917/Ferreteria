@@ -8,7 +8,7 @@ public interface IProductoService {
     // Métodos para el CRUD
 
     //READ
-    List<Producto> traerProducto();
+    List<Producto> traerProductos();
     Producto buscarProducto(Long codProd);
 
     //CREATE
