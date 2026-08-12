@@ -54,6 +54,4 @@ Nota: En tests se usa H2 (configuración en `src/test/resources/application.prop
 - Añadir validaciones y DTOs para separar entidad y payloads.
 - Agregar pruebas unitarias para servicios y controladores (Mockito/WebMvcTest).
 - Añadir manejo de errores centralizado (ControllerAdvice).
-- Integrar frontend con Thymeleaf o una SPA (React/Vue) — cuando avances con el frontend, actualizar este README.
-
-Si querés, hago el commit del README ahora y lo subo al remoto (lo puedo hacer por vos).
+- Integrar frontend con Thymeleaf o una SPA (React/Angular) — cuando avances con el frontend, actualizar este README.
