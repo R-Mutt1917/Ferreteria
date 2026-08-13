@@ -213,3 +213,5 @@ Ferreteria/
 Este proyecto cumple con el reto técnico propuesto: implementación de un CRUD completo para productos/herramientas en Spring Boot con base de datos relacional, API REST, y extra opcional de frontend con Thymeleaf.
 
 La solución está pensada para ser escalable y para servir de base para una futura evolución hacia un frontend independiente y una API más robusta con DTOs, validaciones avanzadas y manejo centralizado de errores.
+
+Futuras mejoras podrían incluir: seguridad con Spring Security, roles de usuario, paginación y filtrado de productos, integración con un frontend moderno (React, Angular), crear servicios de autenticación y autorización, otros escenarios de negocio como ventas, clientes, proveedores, etc.
